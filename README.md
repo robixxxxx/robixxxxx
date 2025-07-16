@@ -1,11 +1,19 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38BDF8;">robixxxxx</span></h1>
 
 <p align="center">
+🚗 Passionate about software development in the automotive world  
+💻 Programmer using C/C++, Python, Qt & Flutter  
+📍 Focused on building efficient and elegant cross-platform applications  
+</p>
+
+---
+<!--
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Automotive+Programmer;C%2FC%2B%2B+%7C+Python+%7C+Qt+%7C+Flutter;Loves+building+clean+and+efficient+code" alt="Typing SVG" />
 </p>
 
 ---
-
+-->
 ### 🛠️ Tech Stack
 
 > 💻 Languages & Tools I use daily
@@ -24,12 +32,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robixxxxx&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/robixxxxx/robixxxxx/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
