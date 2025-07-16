@@ -3,7 +3,7 @@
 <p align="center">
 🚗 Passionate about software development in the automotive world  
 💻 Programmer using C/C++, Python, Qt & Flutter  
-📍 Focused on building efficient and elegant cross-platform applications  
+📍 Focused on building efficient cross-platform applications  
 </p>
 
 ---
